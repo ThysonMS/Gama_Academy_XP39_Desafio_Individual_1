@@ -1,6 +1,14 @@
 # Gama_Academy_XP39_Desafio_Individual_1
 
-### Srpint 1:
+## Projeto:
+
+- Vitrine de produtos com uso das seguintes tecnologias:
+
+  - HTML
+  - CSS
+  - Bootstrap
+
+## Srpint 1:
 
 - Planejar e definir qual será o tema e foco da loja virtual em si (Quais produtos serão vendidos?).
 
@@ -14,7 +22,7 @@
 
     - `Estimativa de: 2h30min`
 
-### Sprint 2:
+## Sprint 2:
 
 - Construção das páginas HTML:
 
@@ -48,7 +56,7 @@
 
     - `Estimativa de: 1h`
 
-### Sprint 4:
+## Sprint 4:
 
 - Definição e aplicação do Bootstrap nas páginas.
 
@@ -58,7 +66,7 @@
 
     - `Estimativa de: 2h`
 
-### Sprint 5:
+## Sprint 5:
 
 - Validação do projeto e possível reorganização dos arquivos.
 
