@@ -35,13 +35,13 @@
 
     - Estilização das páginas em CSS:
 
-        - Página de vitrine dos produtos.
+        1. Página de vitrine dos produtos.
         - Estimativa de: 3h
 
-        - Página de detalhes de um produto.
+        2. Página de detalhes de um produto.
         - Estimativa de: 1h30min
 
-        - Página institucional.
+        3. Página institucional.
         - Estimativa de: 2h
 
     - Validação e possível reorganização dos arquivos.
