@@ -24,7 +24,7 @@
 
 ### Sprint 2:
 
-- Construção das páginas HTML:
+- Construção das páginas em HTML:
 
   1. Página de vitrine dos produtos.
       - **Previsão de: 2h**
