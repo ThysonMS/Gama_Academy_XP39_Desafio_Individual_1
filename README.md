@@ -63,3 +63,7 @@
     - Validação do projeto e possível reorganização dos arquivos.
 
         -- Estimativa de: 1h30min
+
+    - Teste funcional e entrega.
+
+        - Estimativa de: 30min
