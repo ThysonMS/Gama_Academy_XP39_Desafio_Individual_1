@@ -46,7 +46,7 @@
 
 - Validação e possível reorganização dos arquivos.
 
-      - `Estimativa de: 1h`
+    - `Estimativa de: 1h`
 
 ### Sprint 4:
 
