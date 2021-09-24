@@ -7,6 +7,7 @@
   - HTML
   - CSS
   - Bootstrap
+  - lalala
 
 ### Srpint 1:
 
