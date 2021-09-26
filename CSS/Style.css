@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    background-color: #ECCC6E;
+}
+
+#bg-color{
+    background-color: #ECCC6E;
+}
+
+#vertical {
+    height: 150px; 
+    line-height: 150px; 
+    text-align: center; 
+}
+ 
+span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;     
+}

@@ -7,6 +7,13 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="stylesheet" href="./CSS/Style.css" />
+        <link rel="stylesheet" href="./CSS/Normalize.css" />
+
+        <!--[if IE]>
+        <script src="./JS/html5shiv.js"></script>
+        <![endif]-->
         
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous" />
         
@@ -15,16 +22,19 @@
 
     <body>
         
-        <header>
-            <div class="container">
-                <h2>Logotipo</h2>
+        <header style="border-color: green;">
+
+            <div>
             </div>
+
         </header>
 
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 
-                <a class="navbar-brand" href="#">MENU</a>
+                <img src="./images/logo/Suzy tuppers.png" class="img-fluid" alt="LOGO" width="10%">
+                
+                <a class="navbar-brand m-lg-3">MENU</a>
                 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -57,37 +67,15 @@
         </nav>
 
         <article>
-
-            <!-- section>
-                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <img src="/home/thysonms/Downloads/suzana_barco.jpeg" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="/home/thysonms/Downloads/suzana_arvore.jpeg" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="/home/thysonms/Downloads/suzana_abraco.jpeg" class="d-block w-100" alt="...">
-                      </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
-            </section -->
             
             <!--Apresentação-->
             
-            <section>
-                <div class="container"><p>
+            <section id="bg-color">
+                <div class="container mt-5">
+                    <p>
                     Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra sou euzis! In elementis mé pra quem é amistosis quis leo. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.
-                </p></div>
+                    </p>
+                </div>
             </section>
 
             <!--Seção de produtos-->
@@ -96,7 +84,7 @@
                 
                 <div class="container mt-5">
                     
-                    <span id="armazenagem"><h2>Armazenagem</h2></span>
+                    <div id="vertical"><span id="armazenagem" class="container"><h2>Armazenagem</h2></span></div>
                     
                     <div class="row">
                         
@@ -168,7 +156,7 @@
 
                     </div>
                     
-                    <span id="freezer"><h2>Freezer</h2></span>
+                    <div id="vertical"><span id="freezer" class="container"><h2>Freezer</h2></span></div>
                     
                     <div class="row">
                         
@@ -240,7 +228,7 @@
                         
                     </div>
 
-                    <span id="eco"><h2>EcoGarrafas</h2></span>
+                    <div id="vertical"><span id="eco" class="container"><h2>EcoGarrafas</h2></span></div>
                     
                     <div class="row">
                         
@@ -278,7 +266,7 @@
                         </div>
                     </div>
 
-                    <span id="utensilios"><h2>Utensílos</h2></span>
+                    <div id="vertical"><span id="utensilios" class="container"><h2>Utensílios</h2></span></div>
                     
                     <div class="row">
                         
@@ -336,7 +324,7 @@
 
         <footer>
 
-            <div class="container-fluid"><h2>Este é o rodape</h2></div>
+            <div class="container-fluid"><h2 class="m-0 text-center">Este é o rodape</h2></div>
 
         </footer>
 
