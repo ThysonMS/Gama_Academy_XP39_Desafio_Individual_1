@@ -14,7 +14,7 @@ footer{
 #vertical {
     height: 150px; 
     line-height: 150px; 
-    text-align: center; 
+    text-align: center;
 }
 
 h2{
@@ -26,3 +26,8 @@ span {
     vertical-align: middle;
     line-height: normal;     
 }
+
+mark {
+    background-color: #ECCC6E;
+    color: #814256;
+  }
