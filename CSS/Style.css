@@ -16,9 +16,16 @@ footer{
     line-height: 150px; 
     text-align: center; 
 }
+
+h2{
+    color: #814256;
+}
  
 span {
     display: inline-block;
     vertical-align: middle;
     line-height: normal;     
+}
+
+#armazenagem, #freezer, #eco, #utensilios{
 }
